@@ -1,5 +1,5 @@
 # 💫 About Me:
-Audit Code, Official Netzrok Programmer. fit development.<br><br>Audict Code is a guy focused on in situ programming of CFX, Rust, Minecraft among others.<br><br>Make bases for servers and hosting.<br><br>Do you want yours? contact me for more information<br><br>Netzrok Studios & Networks Developer Features:<br><br>Programming of bots, videogames in C# and C++ code, Bases for Own Hosting and User Interfaces for launchers as well as design for the videogame with Photoshop and Illustrator.
+Audit Code, Official Netzrok Programmer. fit development.<br><br>Audict Code is a guy focused on in situ programming of CFX, Rust, Minecraft among others. Make bases for servers and hosting. Do you want yours? contact me for more information on audictcode@gmail.com. Netzrok Studios & Networks Developer Features: Programming of bots, videogames in C# and C++ code, Bases for Own Hosting and User Interfaces for launchers as well as design for the videogame with Photoshop and Illustrator.
 
 
 ## 🌐 Socials:
